@@ -1,7 +1,5 @@
 
-# Rock Paper Scissors - using JavaScript ❤
-### [Live Working (Click here)](https://amanraj1608.github.io/awesome-rock-paper-scissor/)
-
+# Rock Paper Scissors
 
 #### - Basic Rules 
 ```markdown
